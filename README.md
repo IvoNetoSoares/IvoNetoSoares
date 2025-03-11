@@ -7,7 +7,7 @@
 ---
 
 ### 🌟 **Tecnologias e Habilidades**
-- **Linguagens:** Python, SQL, HTML, PHP
+- **Linguagens:** Python, SQL, HTML, C#
 - **Frameworks:** Flask, Node.js
 - **Bancos de Dados:** MySQL, SQLite
 - **Ferramentas:** Git
