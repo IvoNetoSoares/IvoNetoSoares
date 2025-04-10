@@ -1,12 +1,14 @@
-# 👋 Olá! Eu sou IVO
+# 👋 Olá! Eu sou o IVO
 
-🎓 **Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)**  
-💻 Apaixonado por desenvolvimento backend, automação com IoT e análises de dados.  
-📚 Sempre explorando novas tecnologias e desafios, atualmente aprendendo mais sobre **Machine Learning** e **bancos de dados relacionais**.
+🎓 Estudante de TADS | 💻 Foco em Backend, Banco de Dados | 🚀 Explorando IoT e Machine Learning
+
+Sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS), apaixonado por backend, automação com IoT e análise de dados.  
+Atualmente, estou aprendendo mais sobre Machine Learning e bancos de dados relacionais, sempre buscando novos desafios e aprendizados.
 
 ---
 
-### 🌟 **Tecnologias e Habilidades**
+## 🛠️ Tecnologias e Habilidades
+
 - **Linguagens:** Python, SQL, HTML, C#
 - **Frameworks:** Flask, Node.js
 - **Bancos de Dados:** MySQL, SQLite
@@ -15,15 +17,19 @@
 
 ---
 
-### 🚀 **Projetos em Destaque**
-#### em breve 
+## 🚀 Projetos em Destaque
+
+Em breve estarei adicionando projetos práticos com foco em backend, automação e dados!
+
 ---
 
-### 🛠️ **Como contribuir**
+## 🤝 Como contribuir
+
 Sinta-se à vontade para explorar meus repositórios, abrir ou contribuir com sugestões e melhorias.
 
 ---
 
-### 📫 **Contato**
-- [LinkedIn](https://www.linkedin.com/in/ivo-soares-b80246316/)
-- **E-mail:** ivoneto201712@gmail.com
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/ivo-soares-neto)
+- E-mail: ivoneto201712@gmail.com
